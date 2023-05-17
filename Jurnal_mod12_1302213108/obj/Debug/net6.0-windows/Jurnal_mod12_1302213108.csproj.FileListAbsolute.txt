@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\bin\Debug\net6.0-windows\Jurnal_mod12_1302213108.exe
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\bin\Debug\net6.0-windows\Jurnal_mod12_1302213108.deps.json
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\bin\Debug\net6.0-windows\Jurnal_mod12_1302213108.runtimeconfig.json
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\bin\Debug\net6.0-windows\Jurnal_mod12_1302213108.dll
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\bin\Debug\net6.0-windows\Jurnal_mod12_1302213108.pdb
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.Form1.resources
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.dll
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\refint\Jurnal_mod12_1302213108.dll
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.pdb
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\Jurnal_mod12_1302213108.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Downloads\Jurnal_mod12_1302213108\Jurnal_mod12_1302213108\obj\Debug\net6.0-windows\ref\Jurnal_mod12_1302213108.dll
